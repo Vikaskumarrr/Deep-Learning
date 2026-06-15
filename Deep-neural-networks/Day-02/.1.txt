@@ -1,0 +1,3 @@
+what is LLM ? 
+
+LLM are large language model which work as neural network to understand , genrate and respond to human like text and it give us answer becouse it Deep neural network trained on masive amount of text data 
